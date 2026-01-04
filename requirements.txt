@@ -9,5 +9,4 @@ wikipedia
 python-dotenv
 youtube-transcript-api
 streamlit 
-requets
-        
+requests
