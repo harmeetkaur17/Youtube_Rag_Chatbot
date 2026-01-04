@@ -10,3 +10,4 @@ python-dotenv
 youtube-transcript-api
 streamlit 
 requests
+yt-dlp
