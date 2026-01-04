@@ -1,0 +1,13 @@
+langchain
+chromadb
+faiss-cpu
+openai
+tiktoken
+langchain-openai
+langchain-community
+wikipedia
+python-dotenv
+youtube-transcript-api
+streamlit 
+requets
+        
